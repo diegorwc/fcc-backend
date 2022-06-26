@@ -14,5 +14,6 @@
 	"author": "Diego Wille",
 	"description": "Estudos de backend do curso do FreeCodeCamp",
 	"keywords": ["freecodecamp", "backend", "api", "javascript"],
-	"license": "MIT"
+	"license": "MIT",
+	"version": "0.0.1"
 }
